@@ -1,0 +1,11 @@
+As I learned about technology in college and been working in the software field for a long time, 
+I would like to learn coding and automation test. 
+There are many reasons but I find two basics one.
+
+First of all, automation test is a must skill for all future software QA jobs. 
+With the software development changes over years, automation test rises as a trending skill. 
+If I want to improve my career as a QA, this is the first skill to be trained.
+
+Secondly, QAs have to know coding. 
+I think there is no need for forcing QAs to write code but QAs should know how the code works. 
+With this view, catching bugs could be easier because we know the work flow of coding.
